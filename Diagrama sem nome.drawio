@@ -16,8 +16,50 @@
         <mxCell id="VSM80FEj64X5AF1LNCMf-7" value="Heading" style="whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VSM80FEj64X5AF1LNCMf-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; background-color: initial;&quot;&gt;resumo sobre a Kenko Patto oq faz, como faz, o q ela agraga, oq ela proporciona(saude e economicamente), como trabalha com ela&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="79" y="184" width="1015" height="263" as="geometry" />
+        <mxCell id="VSM80FEj64X5AF1LNCMf-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; background-color: initial;&quot;&gt;resumo sobre a Kenko Patto oq faz, como faz, o q ela agraga, oq ela proporciona(saude e economicamente), como trabalha com ela, quais as vantagens de trabalhar com ela&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="79" y="184" width="1015" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menu&amp;nbsp; &amp;nbsp; &amp;nbsp;catalogo&amp;nbsp; &amp;nbsp; &amp;nbsp;contato&amp;nbsp; &amp;nbsp; &amp;nbsp;empresa&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="714" y="14" width="413" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="500" y="554.25" width="169.5" height="169.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-13" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;sobre Maria Júlia&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="511" width="411" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;mudanças na vida dela&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="679" y="511" width="411" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-15" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;como trabalhar nessa empresa características, como atuar, eventos e ações diferencias&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="193" y="885" width="836" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-21" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1633" width="1081" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-22" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="1972" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-23" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="1872" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-24" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="1872" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-25" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="940.5" y="1872" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-26" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="940.5" y="1972" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1857" width="249" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1857" width="249" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="VSM80FEj64X5AF1LNCMf-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=hor;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1433" width="1083" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
